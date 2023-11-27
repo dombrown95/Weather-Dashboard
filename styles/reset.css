@@ -1,4 +1,13 @@
-.header {
-    align-items: center;
+header {
     background-color: navy;
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+.form-heading {
+    
 }
